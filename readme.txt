@@ -1,0 +1,1 @@
+This is a Readme.txt file for my HNG stage-0 Internship
